@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharp-tutorial", "C-sharp-tutorial\C-sharp-tutorial.csproj", "{3C60D070-8606-42DA-8A97-6DEF8705FFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleApplication", "RectangleApplication\RectangleApplication.csproj", "{EB8F0063-81C6-4B53-9100-9F5E47B37764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypeApplication", "DataTypeApplication\DataTypeApplication.csproj", "{BA5654AD-BDCF-4D21-A834-D518D538CF99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversionApplication", "TypeConversionApplication\TypeConversionApplication.csproj", "{B061A9E5-42DB-4955-8178-5E2350C879AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEclaringConstants", "DEclaringConstants\DEclaringConstants.csproj", "{3235765B-DC86-4ED8-8BE3-082011929E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3235765B-DC86-4ED8-8BE3-082011929E05}.Debug|x86.ActiveCfg = Debug|x86
+		{3235765B-DC86-4ED8-8BE3-082011929E05}.Debug|x86.Build.0 = Debug|x86
+		{3235765B-DC86-4ED8-8BE3-082011929E05}.Release|x86.ActiveCfg = Release|x86
+		{3235765B-DC86-4ED8-8BE3-082011929E05}.Release|x86.Build.0 = Release|x86
+		{3C60D070-8606-42DA-8A97-6DEF8705FFAF}.Debug|x86.ActiveCfg = Debug|x86
+		{3C60D070-8606-42DA-8A97-6DEF8705FFAF}.Debug|x86.Build.0 = Debug|x86
+		{3C60D070-8606-42DA-8A97-6DEF8705FFAF}.Release|x86.ActiveCfg = Release|x86
+		{3C60D070-8606-42DA-8A97-6DEF8705FFAF}.Release|x86.Build.0 = Release|x86
+		{B061A9E5-42DB-4955-8178-5E2350C879AD}.Debug|x86.ActiveCfg = Debug|x86
+		{B061A9E5-42DB-4955-8178-5E2350C879AD}.Debug|x86.Build.0 = Debug|x86
+		{B061A9E5-42DB-4955-8178-5E2350C879AD}.Release|x86.ActiveCfg = Release|x86
+		{B061A9E5-42DB-4955-8178-5E2350C879AD}.Release|x86.Build.0 = Release|x86
+		{BA5654AD-BDCF-4D21-A834-D518D538CF99}.Debug|x86.ActiveCfg = Debug|x86
+		{BA5654AD-BDCF-4D21-A834-D518D538CF99}.Debug|x86.Build.0 = Debug|x86
+		{BA5654AD-BDCF-4D21-A834-D518D538CF99}.Release|x86.ActiveCfg = Release|x86
+		{BA5654AD-BDCF-4D21-A834-D518D538CF99}.Release|x86.Build.0 = Release|x86
+		{EB8F0063-81C6-4B53-9100-9F5E47B37764}.Debug|x86.ActiveCfg = Debug|x86
+		{EB8F0063-81C6-4B53-9100-9F5E47B37764}.Debug|x86.Build.0 = Debug|x86
+		{EB8F0063-81C6-4B53-9100-9F5E47B37764}.Release|x86.ActiveCfg = Release|x86
+		{EB8F0063-81C6-4B53-9100-9F5E47B37764}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = C-sharp-tutorial\C-sharp-tutorial.csproj
+	EndGlobalSection
+EndGlobal
